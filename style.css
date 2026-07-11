@@ -1,0 +1,9 @@
+.home1{
+    height: 100vh;
+    background: url(./assets/indian-food-on-a-wooden-table-with-rice-vegetables-and-other-ingredients-free-photo.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    object-fit: contain;
+
+}
